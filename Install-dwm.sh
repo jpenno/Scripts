@@ -4,4 +4,6 @@ cd ~
 cd .config
 git clone https://github.com/jpenno/dwm
 echo "cloned https://github.com/jpenno/dwm"
+cd dwm
+cd dwm
 sudo make clean install
